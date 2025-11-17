@@ -1,6 +1,6 @@
-LineageOS 23.0 for Pong (Sevo9128's unofficial builds) changelog and notes.
+Avium 16 for Pong (Sevo9128's unofficial builds) changelog and notes.
 
-Initial build: 09.11.2025
+Initial build: 16.11.2025
 Last update: 16.11.2025
 
 This build line is still in beta, issues may occur!
@@ -13,11 +13,4 @@ Notes:
 Changelog:
 
 ===== 16.11.2025 (Beta / unofficial release candidate) =====
-! WARNING: A clean flash may be required!
-+ Signed the build using my keys.
-+ Baked in SukiSU Ultra and SusFS.
-+ Added OTA support. (client-side only as of now)
-
-===== 09.11.2025 (Early beta) =====
 + Initial build.
-
