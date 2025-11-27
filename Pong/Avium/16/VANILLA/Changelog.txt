@@ -1,7 +1,7 @@
 Avium 16 for Pong (Sevo9128's unofficial builds) changelog and notes.
 
 Initial build: 16.11.2025
-Last update: 16.11.2025
+Last update: 27.11.2025
 
 This build line is still in beta, issues may occur!
 
@@ -12,5 +12,13 @@ Notes:
 
 Changelog:
 
-===== 16.11.2025 (Beta / unofficial release candidate) =====
+===== 27.11.2025 (Beta release - basic stuff tested) =====
++ Fixed Glyphs.
++ Clean build.
++ Synced sources to latest.
+~ First public release.
+~ Clean flash shouldn't be required if moving from the previous build.
+~ Please report any bugs and stability or battery drain issues.
+
+===== 16.11.2025 (Alpha) =====
 + Initial build.

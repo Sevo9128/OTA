@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1763412953,
-      "filename": "AviumUI-16-Pong-20251116-Unofficial-Vanilla.zip",
-      "id": "08de12c6634669971ba500b252333395b0323fb9ac0ef8607080e94300a0ce72",
+      "datetime": 1764028800,
+      "filename": "AviumUI-16-Pong-20251125-Unofficial-Vanilla.zip",
+      "id": "e8de25660f9249128775d3fae704377e2eb0cd006dd2819311d9b1a3cfa86c93",
       "romtype": "Unofficial",
-      "size": 2018622395,
-      "url": "https://github.com/Sevo9128/OTA/releases/download/20251116-2/AviumUI-16-Pong-20251116-Unofficial-Vanilla.zip",
+      "size": 2199733912,
+      "url": "https://your.server/AviumUI-16-Pong-20251125-Unofficial-Vanilla.zip",
       "version": "16"
     }
   ]
