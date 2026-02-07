@@ -1,9 +1,11 @@
-Avium 16 for Pong (Sevo9128's unofficial builds) changelog and notes.
+Avium 16 for Pong (Legacy branch, Sevo9128's unofficial builds) changelog and notes.
+
+WARNING!
+This branch, which is based on modified LineageOS DT will only recieve security updates and small patches from now on.
+We would recommend switching to the current stable branch as per instructions on the message on the Pong - Updates channel on Telegram (It will require a clean flash).
 
 Initial build: 16.11.2025
 Last update: 27.11.2025
-
-This build line is still in beta, issues may occur!
 
 Notes:
 - SukiSU Ultra and SusFS baked in. (Get the manager app here: https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases)
@@ -12,7 +14,7 @@ Notes:
 
 Changelog:
 
-===== 27.11.2025 (Beta release - basic stuff tested) =====
+===== 27.11.2025 (Release) =====
 + Fixed Glyphs.
 + Clean build.
 + Synced sources to latest.

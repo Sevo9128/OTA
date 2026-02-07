@@ -1,0 +1,17 @@
+InfinityX 16 for Pong (Sevo9128's unofficial builds) changelog and notes.
+
+Initial build: XX.02.2026
+Last update: XX.02.2026
+
+This build line is still in beta, issues may occur!
+
+Notes:
+- SukiSU Ultra baked in. (Get the manager app here: https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases)
+- NTCamera is supported.
+- The build is signed using my keys.
+
+Changelog:
+
+===== 16.11.2025 (Beta / unofficial release candidate) =====
++ Initial build.
+
